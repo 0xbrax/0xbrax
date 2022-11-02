@@ -1,4 +1,4 @@
-# Hallo world 👋
+# Hallo world 👋<img style="height: 250px;" src="./rocket-stickman.gif" align="right" alt="404 LOL">
 
 My art name is Brax and I'm a junior full-stack web developer. I like vanilla JavaScript, wen ice cream?
 
