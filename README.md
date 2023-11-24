@@ -21,7 +21,7 @@ My art name is Brax and I'm a frontend web developer. I like vanilla JavaScript,
 
 ## 🌎 Find me around the web:
 
-[(https://img.shields.io/badge/Portfolio-8A2BE2)](https://0xbrax.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-braccini/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0xbrax)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xbrax)
+[!(https://img.shields.io/badge/Portfolio-8A2BE2)](https://0xbrax.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-braccini/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0xbrax)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xbrax)
 
 
 ### 💻 My GitHub stats:
