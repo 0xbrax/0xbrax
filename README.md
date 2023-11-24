@@ -14,6 +14,7 @@ My art name is Brax and I'm a frontend web developer. I like vanilla JavaScript,
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
+  <img src="https://zelig880.com/wp-content/uploads/2017/07/img.png" title="PhaserJS" alt="PhaserJS" height="40"/>&nbsp;
 </div>
 
 ## 🌎 Find me around the web:
