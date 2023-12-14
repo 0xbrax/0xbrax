@@ -2,7 +2,7 @@
 
 My art name is Brax and I'm a frontend web developer. I like vanilla JavaScript, wen ice cream?
 
-## :bulb: Skills:
+## 💡 Skills:
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
