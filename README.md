@@ -2,7 +2,7 @@
 
 My art name is Brax and I'm a frontend web developer. I like vanilla JavaScript, wen ice cream?
 
-## 💡 Skills:
+## 💡 Skills
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
@@ -17,12 +17,12 @@ My art name is Brax and I'm a frontend web developer. I like vanilla JavaScript,
   <img src="https://zelig880.com/wp-content/uploads/2017/07/img.png" title="PhaserJS" alt="PhaserJS" height="40"/>&nbsp;
 </div>
 
-## 🌎 Find me around the web:
+## 🌎 Find me around the web
 
 [![GoogleEarth](https://img.shields.io/badge/Portfolio-8A2BE2?logo=googleearth&logoColor=white)](https://0xbrax.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-braccini/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0xbrax)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xbrax)
 
 
-### 💻 My GitHub stats:
+### 💻 My GitHub stats
 
 ![](https://github-readme-stats.vercel.app/api?username=0xbrax&theme=swift&include_all_commits=true&show_icons=true)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbrax&theme=swift&layout=compact)
