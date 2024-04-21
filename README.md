@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"  title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
   <img src="https://zelig880.com/wp-content/uploads/2017/07/img.png" title="PhaserJS" alt="PhaserJS" height="40"/>&nbsp;
-  <img src="https://pixijs.com/images/logo.svg" title="PixiJS" alt="PixiJS" height="20"/>
+  <img src="https://pixijs.com/images/logo.svg" title="PixiJS" alt="PixiJS" height="20" style="line-height: 40px; vertical-align: middle;" />
 </div>
 
 ## 🌎 Find me around the web
