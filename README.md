@@ -5,7 +5,7 @@
 
 ## 💡 Skills
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
