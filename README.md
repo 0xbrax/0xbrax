@@ -1,7 +1,7 @@
 # Hallo world 👋
 
 <div>My art name is Brax and I'm a frontend web developer. I like vanilla JavaScript, wen ice cream?</div>
-<img style="height: 250px;" src="./rocket-stickman.gif" align="right" alt="404 LOL">
+<img style="height: 250px;" src="./rocket-stickman.gif" alt="404 LOL">
 
 ## 💡 Skills
 
@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"  title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
   <img src="https://zelig880.com/wp-content/uploads/2017/07/img.png" title="PhaserJS" alt="PhaserJS" height="40"/>&nbsp;
-  <img src="https://pixijs.com/images/logo.svg" title="PixiJS" alt="PixiJS" height="30"/>
+  <img src="https://pixijs.com/images/logo.svg" title="PixiJS" alt="PixiJS" height="20"/>
 </div>
 
 ## 🌎 Find me around the web
